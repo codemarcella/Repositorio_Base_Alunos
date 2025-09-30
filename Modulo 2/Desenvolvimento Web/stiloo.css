@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(192, 125, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    }
+    nav{
+        background-color: rgb(163, 113, 255);
+        color: aliceblue;
+        display: flex;
+        justify-content: space-between;
+        padding: 15px;
+        align-items: center;
+    }
+    nav.logo{
+        font-size: 20px;
+        font-weight: bold;
+
+    }
